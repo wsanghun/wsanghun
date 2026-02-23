@@ -65,7 +65,7 @@ React + Canvas + requestAnimationFrame
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wsanghun&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsanghun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsanghun&layout=compact&theme=radical)
 
 ---
 
