@@ -61,14 +61,6 @@ React + Canvas + requestAnimationFrame
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wsanghun&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsanghun&layout=compact&theme=radical)
-
----
-
 ## 🎯 Focus On
 - 시스템 아키텍처 설계
 - 시간 기반 상태 변화 처리
