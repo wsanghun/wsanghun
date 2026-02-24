@@ -12,34 +12,6 @@
 
 ---
 
-## 🚀 Main Projects
-
-### 🎲 FBG (Find Board Game) – Fullstack
-Spring Boot + Thymeleaf + JavaScript
-
-- 게시판 검색/필터링 기능
-- 댓글 트리 구조 재귀 렌더링
-- 이벤트 버블링 & 위임 기반 UI 처리
-- 알림 시스템 설계
-- Spring Security 인증 처리
-
-📌 SSR + JS 이벤트 제어를 혼합한 구조 설계 경험
-
----
-
-### 🕹 DTD (Digimon Tower Defense) – SPA Game
-React + Canvas + requestAnimationFrame
-
-- 실시간 게임 루프 구현
-- 몬스터 / 타워 / 웨이브 시스템 분리 설계
-- 가챠 시스템 + 강화 시스템 구현
-- 상태 관리 기반 UI 동기화
-- 시간 흐름 기반 게임 아키텍처 설계
-
-📌 “시간 흐름 기반 상태 변화” 구조 설계
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
@@ -70,4 +42,4 @@ React + Canvas + requestAnimationFrame
 ---
 
 ## 🔗 Portfolio
-👉 포트폴리오 링크 넣기
+👉 (https://drive.google.com/file/d/1V2Lty1b3r-aIsVu0HSQq55BR7AafY-BT/view?usp=sharing)
